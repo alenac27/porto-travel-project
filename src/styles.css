@@ -29,6 +29,7 @@ h3 {
 img {
   width: 100%;
   display: block;
+  filter: brightness(110%) contrast(115%);
 }
 
 .grid-3-columns {
@@ -92,6 +93,10 @@ section {
 
 .secondary {
   background: #f8f8f8;
+}
+
+section h4,
+h2 {
   text-align: center;
 }
 
